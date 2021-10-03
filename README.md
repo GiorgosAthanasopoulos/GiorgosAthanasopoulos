@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giorgos-athanassopoulos
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on coding projects
+- 💞️ I’m looking to collaborate on open source coding projects
 - 📫 How to reach me: spzdoom@gmail.com
 
 <!---
