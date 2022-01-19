@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giorgos-athanassopoulos
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on open source coding projects
+- 👀 I’m interested in coding duh
+- 🌱 I’m currently learning cs@aeub
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: spzdoom@gmail.com
 
 <!---
