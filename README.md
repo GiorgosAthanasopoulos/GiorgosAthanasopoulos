@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giorgos-athanassopoulos
+- 👋 Hi, I’m @GiorgosAthanasopoulos
 - 👀 I’m interested in coding duh
 - 🌱 I’m currently learning cs@aeub
 - 💞️ I’m looking to collaborate on open source projects
